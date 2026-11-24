@@ -1,4 +1,4 @@
-<h1 align="center">🛒 Shopping List App</h1>
+<h1 align="center">Shopping List App</h1>
 
 <p align="center">A simple shopping list built with Jetpack Compose: add items with quantities, then edit or delete them.</p>
 
@@ -8,13 +8,13 @@
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
 </p>
 
-## ✨ Features
+## Features
 
 - Add an item with a name and quantity from an `AlertDialog`.
 - Edit an item inline, or delete it.
 - A `LazyColumn` list driven by Compose state (`mutableStateOf` / `remember`).
 
-## 🚀 Run
+## Run
 
 Open the project in Android Studio and run it.
 
